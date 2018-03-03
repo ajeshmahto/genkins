@@ -1,0 +1,3 @@
+- Installed jenkins in local machine
+- installed plugins - git, maven,
+- Create a build process to run springboot applicaiton from git hub
